@@ -1,0 +1,9 @@
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_cmd_to_unit\denali_cmd_to_unit\bin\Debug\denali_cmd_to_unit.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_cmd_to_unit\denali_cmd_to_unit\bin\Debug\denali_cmd_to_unit.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_cmd_to_unit\denali_cmd_to_unit\bin\Debug\denali_cmd_to_unit.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_cmd_to_unit\denali_cmd_to_unit\obj\Debug\denali_cmd_to_unit.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_cmd_to_unit\denali_cmd_to_unit\obj\Debug\denali_cmd_to_unit.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_cmd_to_unit\denali_cmd_to_unit\obj\Debug\denali_cmd_to_unit.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\valencell_cmd_to_unit\denali_cmd_to_unit\bin\Debug\denali_cmd_to_unit.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\valencell_cmd_to_unit\denali_cmd_to_unit\obj\Debug\denali_cmd_to_unit.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\valencell_cmd_to_unit\denali_cmd_to_unit\obj\Debug\denali_cmd_to_unit.pdb
